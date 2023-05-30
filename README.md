@@ -1,0 +1,9 @@
+# WebApi
+This project is a Spring boot prject dealing with calculaiton of customers' points. 
+
+The project has 3 layers : Repository, 
+                           Service, 
+                           Controller. 
+The Repository layer is responisble for CRUD operations and time filteration. 
+The Service layer is responsible for handling business logic, such as calculating points in this case. 
+The Controller layer is responsible for handling Http requests. 
